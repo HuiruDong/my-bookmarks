@@ -88,6 +88,10 @@
 - [stackshare](https://stackshare.io/) - 查看其他公司的技术栈
 - [What every Browser knows about you](http://webkay.robinlinus.com/) - 浏览器知道你的哪些信息
 - [字蛛](http://font-spider.org/) - 只引入网站使用的文字的字体文件
+- [REGEXPER](https://regexper.com/) - 可视化验证正则
+- [Fastmock](https://www.fastmock.site/#/) - mock data
+- [正则大全](https://any86.github.io/any-rule/) - 常规正则聚集地
+- [cubic-bezier](https://cubic-bezier.com/) - 贝塞尔调试神器
 
 ## Unicode & Emoji
 - [Click Emoji](https://www.clickemoji.com/) - 点击复制并使用 Emoji
